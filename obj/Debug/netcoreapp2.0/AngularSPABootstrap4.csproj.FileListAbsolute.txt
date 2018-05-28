@@ -1,0 +1,11 @@
+H:\test11\AngularSPABootstrap4-master\AngularSPABootstrap4-master\AngularSPABootstrap4\bin\Debug\netcoreapp2.0\AngularSPABootstrap4.deps.json
+H:\test11\AngularSPABootstrap4-master\AngularSPABootstrap4-master\AngularSPABootstrap4\bin\Debug\netcoreapp2.0\AngularSPABootstrap4.runtimeconfig.json
+H:\test11\AngularSPABootstrap4-master\AngularSPABootstrap4-master\AngularSPABootstrap4\bin\Debug\netcoreapp2.0\AngularSPABootstrap4.runtimeconfig.dev.json
+H:\test11\AngularSPABootstrap4-master\AngularSPABootstrap4-master\AngularSPABootstrap4\bin\Debug\netcoreapp2.0\AngularSPABootstrap4.dll
+H:\test11\AngularSPABootstrap4-master\AngularSPABootstrap4-master\AngularSPABootstrap4\bin\Debug\netcoreapp2.0\AngularSPABootstrap4.pdb
+H:\test11\AngularSPABootstrap4-master\AngularSPABootstrap4-master\AngularSPABootstrap4\obj\Debug\netcoreapp2.0\AngularSPABootstrap4.csproj.CoreCompileInputs.cache
+H:\test11\AngularSPABootstrap4-master\AngularSPABootstrap4-master\AngularSPABootstrap4\obj\Debug\netcoreapp2.0\AngularSPABootstrap4.AssemblyInfoInputs.cache
+H:\test11\AngularSPABootstrap4-master\AngularSPABootstrap4-master\AngularSPABootstrap4\obj\Debug\netcoreapp2.0\AngularSPABootstrap4.AssemblyInfo.cs
+H:\test11\AngularSPABootstrap4-master\AngularSPABootstrap4-master\AngularSPABootstrap4\obj\Debug\netcoreapp2.0\AngularSPABootstrap4.dll
+H:\test11\AngularSPABootstrap4-master\AngularSPABootstrap4-master\AngularSPABootstrap4\obj\Debug\netcoreapp2.0\AngularSPABootstrap4.pdb
+H:\test11\AngularSPABootstrap4-master\AngularSPABootstrap4-master\AngularSPABootstrap4\obj\Debug\netcoreapp2.0\AngularSPABootstrap4.csprojAssemblyReference.cache

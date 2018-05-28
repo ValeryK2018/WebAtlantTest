@@ -1,0 +1,9 @@
+@media (min-width: 768px) {
+    .sidebar-sticky {
+        position: -webkit-sticky;
+        position: sticky;
+        height: calc(100vh - 72px);
+        overflow-x: hidden;
+        overflow-y: auto; 
+    }
+}

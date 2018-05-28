@@ -1,0 +1,33 @@
+﻿<div>
+    <p-table [columns]="cols" [value]="stockmaninfos" [resizableColumns]="true" [scrollable]="true" scrollHeight="400px" selectionMode="single" [(selection)]="selectedStockmaninfo" dataKey="fio" [paginator]="true" [rows]="10">
+        <ng-template pTemplate="caption">
+            <h3>Общее количество деталей по кладовщикам</h3>
+            <p>  Всего позиций: {{stockmaninfos?.length}}</p>
+            <p class="text-success"> {{selectedStockmaninfo ? selectedStockmaninfo.fio: ''}}</p>
+        </ng-template>
+
+        <ng-template pTemplate="colgroup" let-columns>
+            <colgroup>
+                <col *ngFor="let col of columns" [style.width]="col.width">
+            </colgroup>
+        </ng-template>
+
+        <ng-template pTemplate="header" let-columns>
+            <tr>
+                <th *ngFor="let col of columns" pResizableColumn>
+                    {{col.header}}
+                </th>
+            </tr>
+        </ng-template>
+
+        <ng-template pTemplate="body" let-rowData let-columns="columns">
+            <tr [pSelectableRow]="rowData">
+                <td *ngFor="let col of columns" class="ui-resizable-column">
+                    {{rowData[col.field]}}
+                </td>
+            </tr>
+        </ng-template>
+    </p-table>
+</div>
+
+
